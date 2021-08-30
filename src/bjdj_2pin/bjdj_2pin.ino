@@ -21,9 +21,9 @@
 #define Y_STP   3     //y轴 步进控制
 #define Z_STP   4     //z轴 步进控制
 
-#define Key 9
-#define dirKey 10
-#define otherKey 11
+#define Key 9         //Xlimit
+#define dirKey 10     //Ylimit
+#define otherKey 11   //Spin_en
  //函数：moveStep 
  //功能:控制步进电机方向,步数
  //参数:
